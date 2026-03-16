@@ -44,7 +44,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
-
+<img width="1279" height="725" alt="Image" src="https://github.com/user-attachments/assets/28ef30be-e699-4b8c-bfb9-b26123de48fd" />
 
 ### Name:P.S.SABARI
 ### Register Number: 212225040352
